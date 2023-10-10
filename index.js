@@ -48,7 +48,7 @@ let umaString = "O rato roeu a roupa do rei de roma.";
 //===========================================================================================================
 
 
-// //===========Transformar caracter em maiúsculo=========
+// =============Transformar caracter em maiúsculo=========
 // console.log(umaString.toUpperCase());
 // console.log(umaString.toLowerCase());
-// //=====================================================
+// =======================================================
